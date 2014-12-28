@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:TPM="http://texlive.dante.de/"><rdf:Description about="http://www.miktex.org/packages/miktex-cweb-base"><TPM:Name>cweb base</TPM:Name><TPM:Creator>mpc</TPM:Creator><TPM:Title>A Web system in C.</TPM:Title><TPM:Version></TPM:Version><TPM:TargetSystem></TPM:TargetSystem><TPM:Description>The Cweb system is a system for Structured Software Documentation
+(also known as Literate Programming) in the programming language C.
+</TPM:Description><TPM:RunFiles size="26670">texmf\tex\cweb\base\cwebmac.tex texmf\tpm\packages\miktex-cweb-base.tpm</TPM:RunFiles><TPM:DocFiles size="438788">texmf\doc\cweb\cwebman.pdf texmf\doc\cweb\cwebman.tex</TPM:DocFiles><TPM:TimePackaged>1338321607</TPM:TimePackaged><TPM:MD5>39639d6592ac39837935f60df021fb3c</TPM:MD5></rdf:Description></rdf:RDF>

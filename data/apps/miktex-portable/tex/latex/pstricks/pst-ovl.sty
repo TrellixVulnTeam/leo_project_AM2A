@@ -1,0 +1,18 @@
+%% $Id: pst-ovl.sty 800 2013-07-09 18:01:00Z herbert $
+%% 
+%% pst-ovl.sty Copyright (C) 2013 Herbert Voss <hvoss@tug.org>
+%%
+\NeedsTeXFormat{LaTeX2e}
+
+\ProvidesPackage{pst-ovl}
+          [2013/07/08 v0.01 LaTeX wrapper for `pst-ovl' (HV)]
+\input{pst-ovl}
+\ProvidesFile{pst-ovl.tex}
+          [2013/07/08 v0.01 overlay macros `pst-ovl' (HV)]
+\IfFileExists{pst-ovl.pro}{%
+      \ProvidesFile{pst-ovl.pro}%
+        [2013/12/21,  PostScript prologue file (hv)]
+        \@addtofilelist{pst-ovl.pro}}{}%
+
+\endinput
+%%

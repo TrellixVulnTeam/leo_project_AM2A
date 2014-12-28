@@ -1,0 +1,14 @@
+[TabSession]
+autoload=0
+
+[windowpos]
+MainWindow_flags=0
+MainWindow_ptMaxPositionX=-1
+MainWindow_ptMaxPositionY=-1
+MainWindow_ptMinPositionX=-1
+MainWindow_ptMinPositionY=-1
+MainWindow_rcNormalPositionBottom=651
+MainWindow_rcNormalPositionLeft=125
+MainWindow_rcNormalPositionRight=1150
+MainWindow_rcNormalPositionTop=125
+MainWindow_showCmd=1

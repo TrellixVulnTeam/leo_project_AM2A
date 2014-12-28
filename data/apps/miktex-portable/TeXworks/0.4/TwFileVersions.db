@@ -1,0 +1,19 @@
+1280 a33bf3d1515fcdc3844c126c30f378ed configuration/tag-patterns.txt
+1280 472227747ff2cf8b0aeda1dc8a15dccf configuration/texworks-config.txt
+1280 b0847bafe066c706a556601940472446 configuration/auto-indent-patterns.txt
+1280 69225c00f4efd2eca55372eb55b51c9c configuration/smart-quotes-modes.txt
+1280 b62327da849f709eb3d7f43de9206c00 configuration/syntax-patterns.txt
+1280 4572ba0aae8cc7851981598dad212305 configuration/delimiter-pairs.txt
+1280 0f4e535eadc4fa42fa6cee598a1dfcc1 scripts/Hooks/babelLanguage.js
+1280 01590d7b1054b4f6544452772aa54e7d scripts/Hooks/logParser.js
+1280 b57478174d72600200bb380cada6db91 scripts/launchPdf.js
+1280 c3d60c32c623a51c03ad48f6d794028f scripts/makeBold.py
+1280 3a9a3cfaacba7b5deedb6deac48642f3 scripts/system.js
+1280 8f9fb082d218b8ec1fbeeafab2feb6ba scripts/Text transforms/titlecase.js
+1280 3bc19d20951e5619b422c319127f19d4 scripts/makeBold.lua
+1280 702a3c082d834ec69e709afb1de7a340 scripts/LaTeX styles/toggleBold.js
+1280 4fde047514f41ebeda1d338145fdb40a scripts/LaTeX styles/toggleEmph.js
+1280 41f66cb18d9fcc848bd29fc928cc7698 completion/tw-beamer.txt
+1280 1ddbfb0df864eed1b0a6599fe098e877 completion/tw-latex.txt
+1280 e95d0d9f5b1f61080b395c3225e91158 completion/tw-basic.txt
+1280 a8a7a23be0755f3b53437809ce925544 completion/tw-context.txt

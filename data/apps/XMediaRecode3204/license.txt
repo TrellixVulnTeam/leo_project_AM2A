@@ -1,0 +1,22 @@
+Der Autor übernimmt KEINE HAFTUNG für Schäden jeglicher
+Art an Dateien oder Hardware, die durch dieses Programm
+verursacht werden könnten.
+
+Installationen und Benutzung der Software sind kostenlos
+sowohl im privaten als auch im kommerziellen Umfeld.
+Wenn die das Projekt finanziell unterstützen wollen, dann
+wenden Sie sich bitte direkt an den Autor.
+Die private nichtkommerzielle Weitergabe des Programms
+auf Datenträgern ist gestattet.
+Die nichtkommerzielle Spiegelung auf www- und ftp-Servern
+von Schulen, Hochschulen, Vereinen und gemeinnützigen
+Organisationen ist gestattet.
+Die Spiegelung des Programms auf Homepages von
+Privatpersonen oder Gewerbe ist vorher von mir
+genehmigen zu lassen.
+Die kommerzielle Verwertung und Verteilung des Programms
+ist nur mit ausdrücklicher Erlaubnis des Autors gestattet.
+
+
+FFmpeg is licensed under LGPL and GPL
+Source Code: http://ffmpeg.org/download.html

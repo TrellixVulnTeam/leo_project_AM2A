@@ -1,0 +1,5 @@
+V:\IDE\Python34\lib\site-packages\leo-4.11_final-py3.4.egg\leo\doc\CheatSheet.leo
+v:\home\.leo\workbook.leo
+V:\project\2014cda-W13\cdproject.leo
+V:\project\leo_project\cherrypy1.leo
+C:\Users\ibm\Downloads\leo_project\cherrypy1.leo
